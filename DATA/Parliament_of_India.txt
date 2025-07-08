@@ -1,6 +1,17 @@
 Parliament of India
 
-The Parliament of India is the supreme legislative body of the Republic of India. It is a bicameral legislature composed of the President of India and two houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).
+The Parliament of India is the highest legislative body in the country, responsible for making laws, 
+overseeing the government, and representing 
+the citizens of India. It consists of two houses — the Rajya Sabha (Council of States) and the 
+Lok Sabha (House of the People) — along with the President of India, who plays a key role in the 
+legislative process. The Rajya Sabha is a permanent body with members elected by the state legislatures,
+while the Lok Sabha is composed of members directly elected by the public through general elections held every 
+five years. The Parliament meets at the Sansad Bhavan in New Delhi and plays a vital role in shaping the nation’s policies, 
+passing the budget, and holding the executive accountable. As a cornerstone of Indian democracy, the Parliament ensures that the
+voices of the people are heard and the rule of law is maintained.
+
+The Parliament of India is the supreme legislative body of the Republic of India. It is a bicameral legislature composed of the President of India and two houses: 
+the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).
 
 1. Rajya Sabha:
    - It is the upper house of Parliament.
